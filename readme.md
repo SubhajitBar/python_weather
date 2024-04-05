@@ -1,4 +1,9 @@
 
+# Python Weather Site
+
+Web application to check the temperature and various weather status by city name.
+
+
 ## Demo
 
 Visit this site :    
